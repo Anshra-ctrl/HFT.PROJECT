@@ -1,8 +1,8 @@
-# HFT.PROJECT
-An experimental high-frequency trading project exploring algorithmic trading models and data-driven decision-making.
-# HFT Cybersecurity Demo — Setup Guide
-## EduQual Level 3 — Topic 32: Cybersecurity in High-Frequency Finance
-**Student:** Anshra Subhaniee
+# HFT.PROJECT — Cybersecurity in High-Frequency Finance
+
+**EduQual Level 3 — Topic 32** | **Student:** Anshra Subhaniee
+
+An experimental high-frequency trading project exploring algorithmic trading models, data-driven decision-making, and real-time cybersecurity monitoring.
 
 ---
 
